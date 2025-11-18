@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://catherinbor.github.io/.github/prizmo">  
+<a href="https://tanahavlic8094.github.io/.github/prizmo">  
 <img src="https://img.shields.io/badge/GET_PRIZMO-darkgreen?style=for-the-badge&logo=apple" alt="GET PRIZMO">  
 </a>  
 </div>  
